@@ -3,3 +3,9 @@ controllers:
         path: ../src/Controller/
         namespace: App\Controller
     type: attribute
+iset_exemple1:
+    path: /exp1
+    controller: App\Controller\TwigController1Controller::affiche_exp1
+iset_exemple2:
+    path: /exp2
+    controller: App\Controller\TwigController1Controller::search_engine
