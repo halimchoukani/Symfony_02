@@ -26,7 +26,7 @@ class LangController extends AbstractController
                 array('caption' => 'JSP', 'url' => 'https://www.jmdoudoux.fr/java/dej/chap-jsp.htm', 'icon' => 'https://data.jspsafety.com/jsp-whatsapp.png'),
                 array('caption' => 'Node JS', 'url' => 'https://nodejs.org/en', 'icon' => 'https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png'),
                 array('caption' => '.NET', 'url' => 'https://dotnet.microsoft.com', 'icon' => 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png'),
-                array('caption' => 'Symfony', 'url' => 'symfony.com', 'icon' => 'https://cdn.worldvectorlogo.com/logos/symfony.svg'),
+                array('caption' => 'Symfony', 'url' => 'https://symfony.com', 'icon' => 'https://cdn.worldvectorlogo.com/logos/symfony.svg'),
             ],
         ]);
     }
