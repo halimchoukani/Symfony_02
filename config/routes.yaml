@@ -9,3 +9,8 @@ iset_exemple1:
 iset_exemple2:
     path: /exp2
     controller: App\Controller\TwigController1Controller::search_engine
+
+
+send_mail:
+    path: /mail
+    controller: App\Controller\TwigmailController::send_mail
